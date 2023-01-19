@@ -1,0 +1,6 @@
+--i)
+ is used to filter records according to a condition
+ ii)It groups rows that have the same values into summary rows.
+ iii) it avoids returning deplicate values that are in different columns
+iv)it is used to select data from a database.
+v) It arranges data  results in ascending or descending order

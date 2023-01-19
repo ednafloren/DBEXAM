@@ -1,0 +1,33 @@
+No. 1
+i)A database is a collection of organised related tables.
+ii)This is a software  used to create,manage and manulpate databases.
+iii)This is a programming language used to create and manulpate databases.
+iv)This is a key in a relation thats has a responding key in another relation.
+v)This is a candidate key in a relation that is chosen to uniquely identify a row .
+
+No.2
+A database helps to reduce on data redundancy since it is stored in one location.
+Databases help in maintaining data consistency since changes made are reflected on every data that is affected.
+Data is more secure because of the use passwords on accessing the databases.
+Modification of data in databases is easy since any updates made appear for all users at once.
+Backup of data is made easier with databases because on the use online and remote servers.
+Access of data is easy because of the use of commands .
+
+No.3
+MySQL
+PostgreSQL
+MariaDB
+Microsoft SQL Server
+Oracle Database.
+
+Banking systems
+Schools
+Hospital systems
+Liberaries
+Supermarkets
+In blogging applications
+
+No.4
+One to one
+one-to-many
+many-to-many
